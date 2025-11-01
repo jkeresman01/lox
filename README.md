@@ -1,2 +1,2 @@
 # lox
-Implementation of lox language from "Crafting interpreters book" in go
+Implementation of lox language from "Crafting interpreters book" (https://craftinginterpreters.com/)  in go
